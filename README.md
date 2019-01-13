@@ -17,5 +17,9 @@ https://en.wikipedia.org/wiki/Chomp
 ## Passwort2.java
 guessing a password with brute-force approach
 
+## Rule90.java
+elementary cellular automaton, takes in binary array, values are processed for a specified number of steps
+https://en.wikipedia.org/wiki/Rule_90
+
 ## SwitchSort.java
 sorts array from input with switch sort
