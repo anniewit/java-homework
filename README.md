@@ -2,6 +2,7 @@
 weekly exercises for the introduction to java, algorithms and data structures course
 
 usage of external libraries was not allowed
+
 AlgoTools.IO was provided by the instructors
 
 ## Bigramme.java
